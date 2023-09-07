@@ -16,6 +16,6 @@
 ## Assignment 2:
 - Q1: [N-Layer Fully Connected Network](https://github.com/JohnRB626/CS231n/blob/d94a0b8189ba9424092ea6c428b3b6e6b838c8af/assignment2/FullyConnectedNets.ipynb)
 - Q2: [Batch Normalization](https://github.com/JohnRB626/CS231n/blob/d94a0b8189ba9424092ea6c428b3b6e6b838c8af/assignment2/BatchNormalization.ipynb)
-- Q3: [Dropout](https://github.com/JohnRB626/CS231n/blob/d94a0b8189ba9424092ea6c428b3b6e6b838c8af/assignment2/Dropout.ipynb)
+- Q3: [Dropout](https://github.com/JohnRB626/CS231n/blob/b458076df6a77ab5bfa46c63aa936695c80035e6/assignment2/Dropout.ipynb)
 - Q4: [Convolutional Neural Networks](https://github.com/JohnRB626/CS231n/blob/d94a0b8189ba9424092ea6c428b3b6e6b838c8af/assignment2/ConvolutionalNetworks.ipynb)
 - Q5: [PyTorch](https://github.com/JohnRB626/CS231n/blob/d94a0b8189ba9424092ea6c428b3b6e6b838c8af/assignment2/PyTorch.ipynb)
